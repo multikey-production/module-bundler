@@ -1,0 +1,9 @@
+[{
+  "taskName": "buildServerShop",
+  "src": "../admin-panel/server/components/shop/*",
+  "dest": "shop/server"
+}, {
+  "taskName": "buildManagerShop",
+  "src": "../admin-panel/manager_dev/src/modules/shop/*",
+  "dest": "shop/manager"
+}]
